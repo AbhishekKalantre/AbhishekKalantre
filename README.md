@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Mca 2nd year.**
 
-- 💬 Ask me about **C ,C++ , C# ,html ,CSS .js ,react....**
+- 💬 Ask me about **C ,C++ , C# ,html ,CSS ,js ,react....**
 
 - 📫 How to reach me **abhishekkalantre123@gmail.com**
 
